@@ -1,4 +1,22 @@
-ontainerization --> Docker, Rocket(Rkt),Container-d
+x:
+# Create name space using command(Imperative)
+kubectl create ns test-ns
+
+# Add labels to the existing name space
+
+kubectl label namespaces <namespace> <labelKey>=<value>
+
+ex:
+kubectl label namespaces test-ns team=testingteam
+
+
+Or same can be done using declarive way
+
+# Using Declarative Manifest file
+
+apiVersion: v1
+kind: Namespace
+metadata:ontainerization --> Docker, Rocket(Rkt),Container-d
 Container Orchestration Tools --> Docker Swarm,Kubernetes,OpenShift
 
 
