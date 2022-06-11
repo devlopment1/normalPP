@@ -1,4 +1,9 @@
-ontainerization --> Docker, Rocket(Rkt),Container-d
+KOPS --> Kubernetes Operations is a sotware using which we can create production ready
+highily available kubenetes services in Cloud like AWS.KOPS will leverage Cloud Sevices like
+AWS AutoScaling & Lanuch Configurations to setup K8's Master & Workers. It will Create 2 ASG & Lanuch Configs
+one for master and one for worekrs. Thesse Auto Scaling Groups will manage EC2 Instances.
+
+https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#-strong-getting-started-stronontainerization --> Docker, Rocket(Rkt),Container-d
 Container Orchestration Tools --> Docker Swarm,Kubernetes,OpenShift
 
 
