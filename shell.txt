@@ -1,2 +1,0 @@
-echo "hi i am from xellp"
-
