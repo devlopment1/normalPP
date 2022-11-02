@@ -1,0 +1,8 @@
+version: "3"
+services:
+  nginx-react:
+    container_name: ngixreactapp
+    build:
+      context: .
+    ports:
+      - 5003:80

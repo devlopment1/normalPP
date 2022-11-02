@@ -1,0 +1,21 @@
+[
+  {
+    "navSlide": [
+      {
+        "id": 1,
+        "img": "../src/assets/images/2_05_25_59_Khajuraho_1_H@@IGHT_276_W@@IDTH_600.jpg",
+        "alt": "Mp"
+      },
+      {
+        "id": 2,
+        "img": "../src/assets/images/2_05_25_59_Khajuraho_1_H@@IGHT_276_W@@IDTH_600.jpg",
+        "alt": "Mp"
+      },
+      {
+        "id": 3,
+        "img": "../src/assets/images/2_05_25_59_Khajuraho_1_H@@IGHT_276_W@@IDTH_600.jpg",
+        "alt": "Mp"
+      }
+    ]
+  }
+]
