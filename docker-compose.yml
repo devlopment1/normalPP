@@ -6,3 +6,9 @@ services:
       context: .
     ports:
       - 5003:80
+    networks:
+    - test
+    
+networks:
+  test:
+   driver: bridge
